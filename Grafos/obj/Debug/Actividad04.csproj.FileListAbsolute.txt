@@ -1,0 +1,14 @@
+C:\Users\Gustavo\Desktop\CuartoCUCEI\Seminario_Algoritmia\PadillaValdezGustavoA04\obj\Debug\Actividad04.csprojResolveAssemblyReference.cache
+C:\Users\Gustavo\Desktop\CuartoCUCEI\Seminario_Algoritmia\PadillaValdezGustavoA04\obj\Debug\Actividad04.MainForm.resources
+C:\Users\Gustavo\Desktop\CuartoCUCEI\Seminario_Algoritmia\PadillaValdezGustavoA04\obj\Debug\Actividad04.csproj.GenerateResource.Cache
+C:\Users\Gustavo\Desktop\CuartoCUCEI\Seminario_Algoritmia\PadillaValdezGustavoA04\bin\Debug\Actividad04.exe
+C:\Users\Gustavo\Desktop\CuartoCUCEI\Seminario_Algoritmia\PadillaValdezGustavoA04\bin\Debug\Actividad04.pdb
+C:\Users\Gustavo\Desktop\CuartoCUCEI\Seminario_Algoritmia\PadillaValdezGustavoA04\obj\Debug\Actividad04.exe
+C:\Users\Gustavo\Desktop\CuartoCUCEI\Seminario_Algoritmia\PadillaValdezGustavoA04\obj\Debug\Actividad04.pdb
+C:\Users\Gustavo\Desktop\CuartoCUCEI\Seminario_Algoritmia\PadillaValdezGustavoA04\PadillaValdezGustavoCF\bin\Debug\Actividad04.exe
+C:\Users\Gustavo\Desktop\CuartoCUCEI\Seminario_Algoritmia\PadillaValdezGustavoA04\PadillaValdezGustavoCF\bin\Debug\Actividad04.pdb
+C:\Users\Gustavo\Desktop\CuartoCUCEI\Seminario_Algoritmia\PadillaValdezGustavoA04\PadillaValdezGustavoCF\obj\Debug\Actividad04.csprojResolveAssemblyReference.cache
+C:\Users\Gustavo\Desktop\CuartoCUCEI\Seminario_Algoritmia\PadillaValdezGustavoA04\PadillaValdezGustavoCF\obj\Debug\Actividad04.MainForm.resources
+C:\Users\Gustavo\Desktop\CuartoCUCEI\Seminario_Algoritmia\PadillaValdezGustavoA04\PadillaValdezGustavoCF\obj\Debug\Actividad04.csproj.GenerateResource.Cache
+C:\Users\Gustavo\Desktop\CuartoCUCEI\Seminario_Algoritmia\PadillaValdezGustavoA04\PadillaValdezGustavoCF\obj\Debug\Actividad04.exe
+C:\Users\Gustavo\Desktop\CuartoCUCEI\Seminario_Algoritmia\PadillaValdezGustavoA04\PadillaValdezGustavoCF\obj\Debug\Actividad04.pdb

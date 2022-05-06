@@ -1,0 +1,14 @@
+C:\Users\Gustavo\Desktop\CuartoCUCEI\Seminario_Algoritmia\PadillaValdezGustavoA01\PadillaValdezGustavoCF\Actividad01\obj\Debug\Actividad01.csprojResolveAssemblyReference.cache
+C:\Users\Gustavo\Desktop\CuartoCUCEI\Seminario_Algoritmia\PadillaValdezGustavoA01\PadillaValdezGustavoCF\Actividad01\obj\Debug\Actividad01.csproj.GenerateResource.Cache
+C:\Users\Gustavo\Desktop\CuartoCUCEI\Seminario_Algoritmia\PadillaValdezGustavoA01\PadillaValdezGustavoCF\Actividad01\bin\Debug\Actividad01.exe
+C:\Users\Gustavo\Desktop\CuartoCUCEI\Seminario_Algoritmia\PadillaValdezGustavoA01\PadillaValdezGustavoCF\Actividad01\bin\Debug\Actividad01.pdb
+C:\Users\Gustavo\Desktop\CuartoCUCEI\Seminario_Algoritmia\PadillaValdezGustavoA01\PadillaValdezGustavoCF\Actividad01\obj\Debug\Actividad01.exe
+C:\Users\Gustavo\Desktop\CuartoCUCEI\Seminario_Algoritmia\PadillaValdezGustavoA01\PadillaValdezGustavoCF\Actividad01\obj\Debug\Actividad01.pdb
+C:\Users\Gustavo\Desktop\CuartoCUCEI\Seminario_Algoritmia\PadillaValdezGustavoA01\PadillaValdezGustavoCF\Actividad01\obj\Debug\Actividad01.MainForm.resources
+C:\Users\Gustavo\Desktop\CuartoCUCEI\Seminario_Algoritmia\PadillaValdezGustavoA02\PadillaValdezGustavoCF\Actividad01\obj\Debug\Actividad01.csprojResolveAssemblyReference.cache
+C:\Users\Gustavo\Desktop\CuartoCUCEI\Seminario_Algoritmia\PadillaValdezGustavoA02\PadillaValdezGustavoCF\Actividad01\obj\Debug\Actividad01.MainForm.resources
+C:\Users\Gustavo\Desktop\CuartoCUCEI\Seminario_Algoritmia\PadillaValdezGustavoA02\PadillaValdezGustavoCF\Actividad01\obj\Debug\Actividad01.csproj.GenerateResource.Cache
+C:\Users\Gustavo\Desktop\CuartoCUCEI\Seminario_Algoritmia\PadillaValdezGustavoA02\PadillaValdezGustavoCF\Actividad01\bin\Debug\Actividad02.exe
+C:\Users\Gustavo\Desktop\CuartoCUCEI\Seminario_Algoritmia\PadillaValdezGustavoA02\PadillaValdezGustavoCF\Actividad01\bin\Debug\Actividad02.pdb
+C:\Users\Gustavo\Desktop\CuartoCUCEI\Seminario_Algoritmia\PadillaValdezGustavoA02\PadillaValdezGustavoCF\Actividad01\obj\Debug\Actividad02.exe
+C:\Users\Gustavo\Desktop\CuartoCUCEI\Seminario_Algoritmia\PadillaValdezGustavoA02\PadillaValdezGustavoCF\Actividad01\obj\Debug\Actividad02.pdb
